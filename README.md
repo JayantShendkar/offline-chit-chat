@@ -1,4 +1,4 @@
-# Beacon 
+# Offline chit chat
 
 A fully decentralized, offline P2P chat application built completely from scratch. Built to get hands dirty with low-level networking, and seeing exactly how far local network protocols can be pushed — without a central server acting as a middleman.
 
